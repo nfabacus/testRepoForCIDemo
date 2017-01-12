@@ -10,15 +10,17 @@ https://github.com/bTreePress/Docker-With-Continous-Integration
 download or pull to your local computer
 https://github.com/bTreePress/Docker-With-Continous-Integration.git
 
-In the root of the project folder run 
+In the root of the project folder run
 ```javascript
 npm install
 ```
-To Start the site run 
+To Start the site run
 ```
-node . 
+node .
 ```
 To View The Site go to:  
 **http://localhost:8080**
 
 Note for the final Chapter I make a chnage to the home.hbs view to show the code going through the entire process. I put that code in a seperate file called home-cat.hbs.
+
+testing
